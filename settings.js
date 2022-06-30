@@ -1,7 +1,7 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//                              K.PRABHASHA
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              Kasun_loshna
+//     ✅ᴮᴼᵀ╱カスンꪶ•͜🌀᭄:|🕊️ 
 //
 //════════════(00)════════════════//
 
@@ -20,41 +20,41 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is ✅ᴮᴼᵀ╱カスンꪶ•͜🌀᭄:|🕊️
+My Creator is ✅ᴾᴿᴼ╱カスンꪶ•͜🌀᭄:|🕊️` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['wa.me/+94701264687'] //Owner number in aive msg
+global.premium = ['wa.me/+94701264687'] //Owner Number info
+global.ownernomer = 'wa.me/+94701264687' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = '✅ᴾᴿᴼ╱カスンꪶ•͜🌀᭄:|🕊️' //Owner Name
+global.botname = ' ✅ᴮᴼᵀ╱カスンꪶ•͜🌀᭄:|🕊️' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.button = '✅ᴮᵒᵗツ•カスン•͜🌀᭄ɢʀᴏᴜᴘ:|🕊️' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/F7xnkVmBEjt2AQbz96EpNG' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '✅ᴮᴼᵀ╱カスンꪶ•͜🌀᭄:|🕊️' //Bot Pacage Name
+global.author = '✅ᴾᴿᴼ╱カスンꪶ•͜🌀᭄:|🕊️' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.ig = 'https://http://www.facebook.com/kasun.loshana' //Facebook Account!
+global.footer = '@kasun.loshna' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
     botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    owner: 'Only Owner can use this!😏',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
+    wait: '🛠️Pleas Wait...',
+    error: 'Error!!!🙁 Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 // DO NOT CHANGE \\
